@@ -1,0 +1,35 @@
+body {
+    background-color: #f3f5f9;
+}
+
+.search {
+    margin-bottom: 2em;
+}
+
+a.icon {
+    color: rgba(0,0,0,.4) !important;
+}
+
+.section {
+    padding: 5em 0;
+}
+
+.container {
+    padding: 1em 5em;
+}
+
+.ui.cards {
+    margin-top: 0.5em;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1 0 2em;
+    box-sizing: border-box;
+}
+
+.ui.inverted.green.button,
+.ui.inverted.green.buttons .button {
+    -webkit-box-shadow: 0 0 0 1px #2ecc40 inset !important;
+    box-shadow: 0 0 0 1px #2ecc40 inset !important;
+}

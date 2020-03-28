@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "SimpleTodo\\": "app/"
+    }
+  },
+  "require": {
+    "elasticsearch/elasticsearch": "^7.6",
+    "ext-mbstring": "*",
+    "ext-pdo": "*"
+  }
+}
