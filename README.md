@@ -1,5 +1,5 @@
 # SimpleTodo
-SimpleTodo is a showcase application I made for an internet. It's built using PHP 7.4, ElasticSearch and Semantic-UI.
+SimpleTodo is a showcase application I made for an internship. It's built using PHP 7.4, ElasticSearch and Semantic-UI.
 
 ## Tools
 - PHP 7.4
