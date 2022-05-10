@@ -1,5 +1,5 @@
 # SimpleTodo
-SimpleTodo is a simple and easy to use application that will help you organize your life. 
+SimpleTodo is a showcase application I made for an internet. It's built using PHP 7.4, ElasticSearch and Semantic-UI.
 
 ## Tools
 - PHP 7.4
